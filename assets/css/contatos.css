@@ -177,3 +177,18 @@ h2:after {
 }
  
 	
+.final-da-pagina{
+    background-color: #000;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.aviso{
+    color: #F2F2F2;
+}
+
+small{
+    color: #f2f2f2;
+}
