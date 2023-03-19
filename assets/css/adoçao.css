@@ -150,3 +150,18 @@ a {
     background-color: #0069d9;
     cursor: pointer;
   }
+  .final-da-pagina{
+    background-color: #000;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+.aviso{
+    color: #F2F2F2;
+}
+
+small{
+    color: #f2f2f2;
+}
